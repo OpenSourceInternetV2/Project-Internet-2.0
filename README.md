@@ -5,4 +5,4 @@ Internet 2.0 is a project creating a free and open Internet using Anonymous styl
 
 ##Communication
 
-Facebook Group : https://www.facebook.com/groups/416392568461012/
+[Facebook Group](https://www.facebook.com/groups/416392568461012/)
